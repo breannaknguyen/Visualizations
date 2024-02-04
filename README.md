@@ -1,2 +1,2 @@
 # Visualizations
-Visualizations from S&amp;DS 361
+Here is my collection of visualizations created over the course of S&DS 361.
